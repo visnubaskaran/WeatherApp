@@ -51,6 +51,7 @@ public class MainActivity extends AppCompatActivity implements ErrorMessageFragm
         setContentView(R.layout.activity_main);
         ButterKnife.bind(this);
         cityName = PreferencesManager.getInstance(this).getLastSelectedCity();
+        System.out.println("Cityname : "+cityName);
         if (savedInstanceState == null) {
             attachFragment();
         }
