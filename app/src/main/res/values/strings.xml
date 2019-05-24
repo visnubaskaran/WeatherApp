@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="today">today</string>
+    <string name="Bangalore">Bangalore</string>
+    <string name="Madurai">Madurai</string>
+    <string name="Chennai">Chennai</string>
+    <string name="check_your_internet_connection">check your internet connection please!</string>
+    <string name="retry">retry</string>
+    <string name="server_down">the servers may down please try  later</string>
+    <string name="something_wrong">something wrong happen please try again</string>
+</resources>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Volumes/WORKSPACE/Weather App/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Volumes/WORKSPACE/Weather App/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_e681481316beae991cf23ed456dfdd7eaf639a91.jar" />
+    </item>
+    <item
+        jar="/Volumes/WORKSPACE/Weather App/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Volumes/WORKSPACE/Weather App/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.0_fdee3b7662a2ec23d1aaec6a198a4579fa4fc2c7.jar" />
+    </item>
+    <item
+        jar="/Volumes/WORKSPACE/Weather App/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Volumes/WORKSPACE/Weather App/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_1c603837df33cd381a2c9be8a0e40eada21ad1b6.jar" />
+    </item>
+    <item
+        jar="/Volumes/WORKSPACE/Weather App/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Volumes/WORKSPACE/Weather App/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.0_c7fb3955937f635b58f97efda6483e9cb430903b.jar" />
+    </item>
+    <item
+        jar="/Volumes/WORKSPACE/Weather App/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Volumes/WORKSPACE/Weather App/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_cd9d05448ac4298b0d355473a73cb984e8669637.jar" />
+    </item>
+    <item
+        jar="/Volumes/WORKSPACE/Weather App/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Volumes/WORKSPACE/Weather App/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_0c510e5492c9dedfa5ec0aca6fdb4ca7b33528e6.jar" />
+    </item>
+    <item
+        jar="/Users/prabhakarannavi/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/Volumes/WORKSPACE/Weather App/app/build/intermediates/pre-dexed/debug/retrofit-2.0.2_18b390401f68214414e5797b90f9263b84012c3c.jar" />
+    </item>
+    <item
+        jar="/Volumes/WORKSPACE/Weather App/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Volumes/WORKSPACE/Weather App/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_4acdb202f00bf18ebf959c264047139cdef54ca1.jar" />
+    </item>
+    <item
+        jar="/Volumes/WORKSPACE/Weather App/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
+        <dex dex="/Volumes/WORKSPACE/Weather App/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.2.0_8ddcd1219edc891fdb034aba67b1f4fa81ab5fde.jar" />
+    </item>
+    <item
+        jar="/Users/prabhakarannavi/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.2/d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27/picasso-2.3.2.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="/Volumes/WORKSPACE/Weather App/app/build/intermediates/pre-dexed/debug/picasso-2.3.2_b7081f0a7149ce065f484d0a2038af58594e6185.jar" />
+    </item>
+    <item
+        jar="/Volumes/WORKSPACE/Weather App/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Volumes/WORKSPACE/Weather App/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_b0231312fd86f2f3159d6c652c719334585491b6.jar" />
+    </item>
+    <item
+        jar="/Volumes/WORKSPACE/Weather App/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Volumes/WORKSPACE/Weather App/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_28f20b2a540a7421aabd18de6471e702dda3cc15.jar" />
+    </item>
+    <item
+        jar="/Volumes/WORKSPACE/Weather App/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Volumes/WORKSPACE/Weather App/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_23f9028673665f5bad24c378179e376d048ca1ee.jar" />
+    </item>
+    <item
+        jar="/Volumes/WORKSPACE/Weather App/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Volumes/WORKSPACE/Weather App/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_80265972b1ad4f97311e03d746b03b9272d279ad.jar" />
+    </item>
+    <item
+        jar="/Users/prabhakarannavi/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/Volumes/WORKSPACE/Weather App/app/build/intermediates/pre-dexed/debug/gson-2.6.2_94dbfd4ea90bf1e44c4922e024281828e06f714d.jar" />
+    </item>
+    <item
+        jar="/Volumes/WORKSPACE/Weather App/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Volumes/WORKSPACE/Weather App/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.4.0_86dad994e1a8055e6d8bfca9542af14f603bb0ef.jar" />
+    </item>
+    <item
+        jar="/Volumes/WORKSPACE/Weather App/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Volumes/WORKSPACE/Weather App/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_dc606837507e651f00e6687afd9d475a968d9cef.jar" />
+    </item>
+    <item
+        jar="/Users/prabhakarannavi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Volumes/WORKSPACE/Weather App/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_5d23df8ddce3295f037d3f939188b236e91eca9c.jar" />
+    </item>
+    <item
+        jar="/Users/prabhakarannavi/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Volumes/WORKSPACE/Weather App/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.4.0_be0d5d5eebe7b3b70230ba788abdd955dc9511a9.jar" />
+    </item>
+    <item
+        jar="/Users/prabhakarannavi/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Volumes/WORKSPACE/Weather App/app/build/intermediates/pre-dexed/debug/okio-1.6.0_9f9ba79b4672ac356e9165c7b43c1859f5d8508c.jar" />
+    </item>
+    <item
+        jar="/Volumes/WORKSPACE/Weather App/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Volumes/WORKSPACE/Weather App/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_84462ed8fdb06c978a2bf98b157f22e1bc68fb0f.jar" />
+    </item>
+    <item
+        jar="/Volumes/WORKSPACE/Weather App/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Volumes/WORKSPACE/Weather App/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_b61238ce42d4ac9b204e0b411c110b4527eeb25c.jar" />
+    </item>
+    <item
+        jar="/Volumes/WORKSPACE/Weather App/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Volumes/WORKSPACE/Weather App/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_4c17ff622ea2a8aee3908d9018fea2c45750d5d0.jar" />
+    </item>
+    <item
+        jar="/Volumes/WORKSPACE/Weather App/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Volumes/WORKSPACE/Weather App/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_aa9ab08d3cdd7959a9ea36eff6937cffe6f8c963.jar" />
+    </item>
+    <item
+        jar="/Users/prabhakarannavi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Volumes/WORKSPACE/Weather App/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_d9b055494f2afa8fccb2b35507313f068dbc8da5.jar" />
+    </item>
+    <item
+        jar="/Users/prabhakarannavi/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/Volumes/WORKSPACE/Weather App/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.2_a140e356916162372ad51fc5adee8c4455fef4e2.jar" />
+    </item>
+
+</items>
